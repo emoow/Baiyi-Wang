@@ -19,6 +19,8 @@ University of Pennsylvania |	Philadelphia, United States   |   International Gue
 ### Research Programs:
 Global immigration of Scientists based on ABM       | Mar 2024 - Now      |  Research Assistant
 
+Applied LLMs  | Jan 2024 - May 2024 | Researcher
+
 Time Budget of Urban Parents During Chinese College Entrance Examination Preparation   |  Mar 2024 - Now |  Researcher
 
 Social Integration of Chinese in Tokyo, Japan    | Jan 2023 - Aug 2023   |  Main Member in Global Science Investigation Program
