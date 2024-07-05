@@ -1,21 +1,21 @@
-## Baiyi-Wang
+# Baiyi-Wang
 
 This is a collection of Emoo's academic and personal interests.
 Here's a simple introduction of Emoo Wang:
 
-# Major: 
+### Major: 
 Sociology BA
 
-# Personal Interest: 
+### Personal Interest: 
 Computational social science, ABM, LLM, Social network, Time
 Computer Skills: Python, NetLogo, JMP, Stata, NVivo
 
-# Education:
+### Education:
 * Nanjing University*	Nanjing, China      Bachelor of Sociology	   Sept 2021 – June 2025
 
 *University of Pennsylvania*	Philadelphia, United States      International Guest Student    Jan 2024 – May 2024
 
-# Research Programs:
+### Research Programs:
 *Global immigration of Scientists based on ABM*       Mar 2024 - Now      Research Assistant
 
 *Time Budget of Urban Parents During Chinese College Entrance Examination Preparation*     Mar 2024 - Now   Researcher
