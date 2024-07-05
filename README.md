@@ -23,7 +23,7 @@ Time Budget of Urban Parents During Chinese College Entrance Examination Prepara
 
 Social Integration of Chinese in Tokyo, Japan    | Jan 2023 - Aug 2023   |  Main Member in Global Science Investigation Program
 
-Production Dynamics of Traditional Peasant Painting         Dec 2022 – Dec 2023       Team leader
+Production Dynamics of Traditional Peasant Painting    |     Dec 2022 – Dec 2023    |   Team leader
 
 National Innovation Program: How Soviet urban planning affects China's spatial planning |  Mar 2022 – Dec 2022   | Main Member 
 
